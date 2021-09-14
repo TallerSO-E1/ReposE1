@@ -1,3 +1,4 @@
+"""
 Instalación de Python:
 En Amazon Linux: sudo yum -y update
 Para Ubuntu Server: sudo apt update
@@ -17,6 +18,7 @@ sudo python36 -m pip install boto3  # Install boto3 for Python 3.6.
 python -m pip show boto3            # Verify boto3 is installed for the current version of Python.
 
 AddAWSCódigo del SDK:
+"""
 import sys
 import boto3
 from botocore.exceptions import ClientError
