@@ -84,7 +84,7 @@ def main():
 
 if __name__ == '__main__':
     main()
-
+"""
 Ejecute laAWSCódigo del SDK:
 introduzca s3.py my-test-bucket us-west-2, donde my-test-bucket es el nombre del bucket que va a crear y us-west-2 es el ID de la región de AWS en la que se ha 
 creado el bucket. De forma predeterminada, el bucket se elimina antes de que el script salga. Para conservar el bucket, añada --keep_bucket al comando.
@@ -108,3 +108,4 @@ Buckets:
   
 Eliminar recursos:
 Para evitar cargos continuos a tuAWSUna vez que finalice este tutorial, elimine elAWS Cloud9Medio ambiente. Para obtener instrucciones, 
+"""
